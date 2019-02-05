@@ -1,6 +1,6 @@
 # Demo project for creating pop-ups in Angular
 
-This the source code for a project I wrote on Medium about creating pop-ups in Angular without the aid of 3rd party libraries.
+This the source code for a project I wrote on [Medium](https://medium.com/@robert.streidt/make-pop-up-windows-in-angular-without-breaking-a-sweat-7a5319199a7c) about creating pop-ups in Angular without the aid of 3rd party libraries.
 
 ## Usage
 
