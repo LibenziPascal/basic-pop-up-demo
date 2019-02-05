@@ -11,3 +11,5 @@ Use the `app-pop-up` component tag to show enclosed content in a pop-up window. 
 Here is a sample pop-up I created with `app-pop-up`:
 
 ![alt text](demo-action.gif "Animating Demo of Angular pop-up component")
+
+See StackBlitz for a [live demo](https://stackblitz.com/github/tall-rob/basic-pop-up-demo).
