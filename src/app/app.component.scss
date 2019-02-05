@@ -1,0 +1,48 @@
+:host {
+  .arrow-button {
+    -webkit-tap-highlight-color: transparent;
+    background: transparent;
+    border: 0;
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    &:focus, &:active {
+      color: #180099;
+      outline: 0;
+    }
+  }
+  .my-prompt {
+    .box {
+      text-align: center;
+      border: 1px solid white;
+      padding: 3ch;
+      position: relative;
+      min-width: 30ch;
+    }
+    header {
+      position: absolute;
+      display: inline-block;
+      left: 0;
+      right: 0;
+      top: -.65em;
+      .title {
+        background: #180099;
+        padding: 0 1ch;
+      }
+    }
+    footer {
+      padding-top: 2ch;
+    }
+    button {
+      -webkit-tap-highlight-color: transparent;
+      background: transparent;
+      border: 0;
+      color: #ffffff;
+      font-family: 'Roboto Mono', monospace;
+      margin: 1ch;
+      &:focus {
+        background: #000000;
+        outline: 0;
+      }
+    }
+  }
+}
